@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kiwi',
-  tagline: 'A multipurpose bot to make your life easier',
+  tagline: 'A multilingual, multipurpose bot designed to streamline server management with features like moderation, announcements, suggestions, ticketing, and utility commands.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Kiwi', // Usually your GitHub org/user name.
+  projectName: 'Kiwi Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -80,7 +80,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/LexadoF/Kiwi_site',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,16 +103,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'top.gg',
+                href: 'https://top.gg/bot/761736119246127134',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/ED9MhGz9pc',
               },
             ],
           },
@@ -125,12 +121,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/LexadoF/Kiwi_site',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} KiwiBot, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KiwiBot. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
