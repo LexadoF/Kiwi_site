@@ -36,11 +36,9 @@ export default function Home() {
     <Layout
       title={`${siteConfig.title} Docs`}
       description="Description will go into a meta tag in <head />">
+      <HomepageHeader />
       <div style={{ position: 'relative', zIndex: -1 }}>
         <BackgroundParticles />
-        <div style={{ position: 'relative', zIndex: 1 }}>
-          <HomepageHeader />
-        </div>
       </div>
       <main>
         <HomepageFeatures />
