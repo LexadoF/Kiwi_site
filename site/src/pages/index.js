@@ -41,7 +41,7 @@ export default function Home() {
         <BackgroundParticles />
       </div>
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );
