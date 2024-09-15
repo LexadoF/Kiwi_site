@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Create
@@ -10,7 +10,7 @@ If a welcome system already exists, it will be edited, otherwise it will be crea
 
 :::
 
-This is the create sub command, it will be executed by using `/welcome-setup create` this subcommand will allow you to create or edit the welcome system.
+This is the create subcommand, it will be executed by using `/welcome-setup create` this subcommand will allow you to create or edit the welcome system.
 
 ## Usage
 
@@ -20,7 +20,7 @@ This is the create sub command, it will be executed by using `/welcome-setup cre
 
 ## Explanation
 
-This command has 3 required parameters and 2 optional parameters
+This subcommand has 3 required parameters and 2 optional parameters
 
 ### Required parameters
 
