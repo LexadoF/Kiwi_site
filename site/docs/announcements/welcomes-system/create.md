@@ -16,7 +16,7 @@ This is the create subcommand, it will be executed by using `/welcome-setup crea
 
 `/welcome-setup create <channel> <message> <type> {role} {url}`
 
-![create command img](./img/welcomeCommand.png)
+![create command img](./img/welcomeCommandCreate.png)
 
 ## Explanation
 

@@ -16,7 +16,7 @@ This is the delete subcommand, it will be executed by using `/welcome-setup dele
 
 `/welcome-setup delete`
 
-![create command img](./img/deleteCommand.png)
+![create command img](./img/welcomeCommandDelete.png)
 
 
 :::note
