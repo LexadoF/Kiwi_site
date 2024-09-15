@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'Privacy Policy',
-                to: '/pirvpol',
+                to: '/privpol',
               },
               {
                 label: 'GitHub',
