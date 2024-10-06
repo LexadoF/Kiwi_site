@@ -16,6 +16,7 @@ This is the delete subcommand, it will be executed by using `/welcome-setup dele
 
 `/welcome-setup delete`
 
+Just by executing the command, the bot will perform the deletion of the welcomes system
 ![create command img](./img/welcomeCommandDelete.png)
 
 
