@@ -19,4 +19,4 @@ repeated answers after a while.
 
 ### Required parameter
 
-* question: This is the question you will like to ask to the magic ball (it has a limit of 1000 characters)
+* question: This is the question you will like to ask to the magic ball (it has a limit of 500 characters)
