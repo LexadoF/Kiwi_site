@@ -9,7 +9,7 @@ This is the connect4 minigame, the goal is to fill four of your pieces in a hori
 
 ## Usage
 
-`/connect4 {user}`
+`/connect4 <user>`
 
 ![connect4 Command](img/connect4Command.png)
 
