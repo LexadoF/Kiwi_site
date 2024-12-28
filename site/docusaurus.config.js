@@ -117,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} KiwiBot. Built with Docusaurus.`,
+        copyright: `Copyright © ${2024 === new Date().getFullYear() ? 2024 : `2024 - ${new Date().getFullYear()}`} KiwiBot. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
