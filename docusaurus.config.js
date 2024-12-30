@@ -32,6 +32,18 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'es'],
+    localeConfigs: {
+      es: {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es',
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en',
+      },
+    },
   },
 
   presets: [

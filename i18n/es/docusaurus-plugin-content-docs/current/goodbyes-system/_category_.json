@@ -1,0 +1,8 @@
+{
+  "label": "Goodbyes",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Read about how to use the goodbye system, this will appear as /goodbye-setup when used on discord"
+  }
+}
