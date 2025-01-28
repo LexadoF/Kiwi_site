@@ -6,6 +6,7 @@ import BackgroundParticles from '@site/src/components/BackgroundParticles'
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import Translate from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -21,7 +22,9 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://discord.com/oauth2/authorize?client_id=761736119246127134&permissions=1804915436790&scope=bot">
-            Add Kiwi 🥝
+            <Translate id='kiwiMainPage.add.link' description='the add kiwi button'>
+              Add Kiwi 🥝
+            </Translate>
           </Link>
         </div>
       </div>
@@ -34,7 +37,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} Docs`}
-      description="Description will go into a meta tag in <head />">
+      description="Documentation for kiwibot">
       <HomepageHeader />
       <div style={{ position: 'relative', zIndex: -1 }}>
         <BackgroundParticles />
