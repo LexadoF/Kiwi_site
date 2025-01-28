@@ -1,0 +1,8 @@
+{
+  "label": "Welcomes",
+  "position": 0,
+  "link": {
+    "type": "generated-index",
+    "description": "Read about how to use the welcome system, this will appear as /welcome-setup when used on discord"
+  }
+}
