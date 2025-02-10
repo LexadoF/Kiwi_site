@@ -2,12 +2,12 @@
 sidebar_position: 5
 ---
 
-# Temp ban
+# Banear temporalmente
 
-This is the temp ban command, it will temporarly ban a user, and unban it after the given time. You can also include the reason for the ban.
+Mediante este comando podrás banear temporalmente a un usuario, definido por la duración y formato de la misma, adicionalmente puedes incluir una razón del baneo. El usuario será desbaneado al finalizar el tiempo.
 
-## Usage
+## Uso
 
-`/tempban <user> <duration> <format> {reason}`
+`/tempban <usuario> <duración> <formato> {razón}`
 
 ![tempban Command](img/tempBanCommand.png)

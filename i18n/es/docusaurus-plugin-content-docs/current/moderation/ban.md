@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-# Ban
+# Banear
 
-This is the ban command, this allows you to ban a user, for this the bot will need the specific permissions and you can also specify a reason.
+Este es el comando ban, te permite banear a un usuario. Para esto, el bot necesitará los permisos específicos y también puedes especificar una razón.
 
-## Usage
+## Uso
 
-`/ban <user> {reason}`
+`/ban <usuario> {razón}`
 
 ![ban Command](img/banCommand.png)

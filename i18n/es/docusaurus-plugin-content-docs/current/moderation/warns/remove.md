@@ -2,26 +2,27 @@
 sidebar_position: 2
 ---
 
-# Remove warn
+# Remover advertencias
 
-This is the remove subcommand, it allows you to remove a warning from a user, for this you will need the warning id.
+Este es el subcomando para eliminar una advertencia, te permite quitar una advertencia de un usuario. Para esto necesitarás el id de la advertencia.
+
 :::note
 
-Warning id's are currently calculated dinamically, for this reason you must check using the review command before removing a warning
+Los ids de las advertencias se calculan dinámicamente, por lo que debes revisar utilizando el comando de revisión antes de eliminar una advertencia.
 
 :::
 
-## Usage
+## Uso
 
-`/warns remove <user> <id>`
+`/advertencias eliminar <usuario> <id>`
 
 ![warns add Command](img/warnsRemoveCommand.png)
 
 ## Explanation
 
-This command has 2 required parameters, the user and the id.
+Este comando tiene 2 parámetros obligatorios: el usuario y el id.
 
-### Required parameters
+### Parámetros obligatorios
 
-* user: This can be any user in the server who has warns.
-* id: This is the specific id of the warning you want to remove, due to the list being assigned dinamic ids, if a user for example has 3 warnings and delete the number 2, the warning number 3, now becomes warning number 2. For this reason, make sure to check the warnings with the review comand before executing.
+* usuario: Este puede ser cualquier usuario en el servidor que tenga advertencias.
+* id: Este es el id específico de la advertencia que deseas eliminar. Debido a que la lista asigna ids dinámicos, si un usuario, por ejemplo, tiene 3 advertencias y eliminas la número 2, la advertencia número 3 se convierte en la número 2. Por esta razón, asegúrate de revisar las advertencias con el comando revisar antes de remover alguna.

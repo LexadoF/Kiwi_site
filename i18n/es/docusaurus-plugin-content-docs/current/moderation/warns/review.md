@@ -2,12 +2,12 @@
 sidebar_position: 1
 ---
 
-# Review warns
+# Revisar advertencias
 
-Thi is the review subcommand, it allows you to see the warnings for a given user, if the user does not have a warning the box will show a message stating that, otherwise will show the warnings.
+Este es el subcomando de revisión, te permite ver las advertencias de un usuario determinado. Si el usuario no tiene advertencias, el cuadro mostrará un mensaje indicando eso; de lo contrario, mostrará las advertencias.
 
-## Usage
+## Uso
 
-`/warns review <user>`
+`/advertencias revisar <usuario>`
 
 ![warns review Command](img/warnsReviewCommand.png)

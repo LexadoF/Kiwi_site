@@ -2,12 +2,12 @@
 sidebar_position: 4
 ---
 
-# Kick
+# Expulsar
 
-This is the kick command, this allows to remove a user from the server whitout restricting it to join again, you can also specify a reason.
+Este es el comando de expulsar, te permite remover a un usuario del servidor sin restringirle la posibilidad de unirse nuevamente. También puedes especificar una razón.
 
-## Usage
+## Uso
 
-`/kick <user> {reason}`
+`/expulsar <usuario> {razón}`
 
 ![kick Command](img/kickCommand.png)

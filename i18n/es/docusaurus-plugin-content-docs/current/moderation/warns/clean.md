@@ -2,12 +2,12 @@
 sidebar_position: 3
 ---
 
-# Clean warns
+# Limpiar advertencias
 
-This is the clean subcommand, this allows you to clear ALL warnings from a user.
+Este es el subcomando para limpiar advertencias, te permite borrar TODAS las advertencias de un usuario.
 
-## Usage
+## Uso
 
-`/warns clean <user>`
+`/advertencias limpiar <usuario>`
 
 ![warns clean Command](img/warnsCleanCommand.png)

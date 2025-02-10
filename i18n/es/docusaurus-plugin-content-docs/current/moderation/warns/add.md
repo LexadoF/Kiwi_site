@@ -2,24 +2,24 @@
 sidebar_position: 0
 ---
 
-# Add warn
+# Agregar advertencia
 
-This is the add subcomand, it allows an administrator to add a new warning to a user.
+Este es el subcomando para agregar advertencias, permite a un administrador agregar una nueva advertencia a un usuario.
 
-## Usage
+## Uso
 
-`/warns add <user> {reason}`
+`/advertencias añadir <usuario> {razón}`
 
 ![warns add Command](img/warnsAddCommand.png)
 
-## Explanation
+## Explicación
 
-This command has 1 required parameter and 1 optional parameter.
+Este comando tiene 1 parámetro obligatorio y 1 parámetro opcional.
 
-### Required parameter
+### Parámetro obligatorio
 
-* user: This can be any user in the server.
+* usuario: Este puede ser cualquier usuario en el servidor.
 
-### Optional parameter
+### Parámetro opcional
 
-* reason: This is the reason of the warning, if not specified will default to "no reason".
+* razón: Esta es la razón de la advertencia. Si no se especifica, se establecerá por defecto como "sin razón".

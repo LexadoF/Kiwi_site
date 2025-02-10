@@ -4,10 +4,10 @@ sidebar_position: 5
 
 # Nuke
 
-This is the nuke command, it allows you to delete a channel and re create it with the same permissions, for it the bot must have the permission to access, view and modify the specific channel.
+Este es el comando nuke, te permite eliminar un canal y recrearlo con los mismos permisos. Para esto, el bot debe tener permiso para acceder, ver y modificar el canal específico.
 
-## Usage
+## Uso
 
-`/nuke <channel>`
+`/nuke <canal>`
 
 ![nuke Command](img/nukeCommand.png)

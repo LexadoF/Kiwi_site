@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Agregar rol
 
-Este es el subcomando agregar role, te permite asignar un rol al usuario especificado. Para esto, el bot debe tener su propio rol por encima del rol que deseas asignar.
+Este es el subcomando agregar rol, te permite asignar un rol al usuario especificado. Para esto, el bot debe tener su propio rol por encima del rol que deseas asignar.
 
 ## Uso
 

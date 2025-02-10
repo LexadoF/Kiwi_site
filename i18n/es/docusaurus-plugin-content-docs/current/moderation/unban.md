@@ -2,12 +2,12 @@
 sidebar_position: 6
 ---
 
-# Unban
+# Desbanear
 
-This is the unban command, it allows you to remove a ban from a user, for it you need the user it, which is the code in numbers for the user, not the username which is alphanumeric.
+Mediante este comando podrás desbanear un usuario, para ello necesitas su id, que es un código numerico, no su nombre de usuario.
 
-## Usage
+## Uso
 
-`/unban <userid>`
+`/desbanear <idUsuario>`
 
 ![unban Command](img/unbanCommand.png)

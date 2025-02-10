@@ -2,12 +2,12 @@
 sidebar_position: 3
 ---
 
-# Clear
+# Limpiar
 
-This is the clear command, it allows you to clear up to 100 messages from a channel with the option of this messages being specific to a user.
+Este es el comando limpiar, te permite eliminar hasta 100 mensajes de un canal con la opción de que estos mensajes sean específicos de un usuario.
 
-## Usage
+## Uso
 
-`/clear <messages> {user}`
+`/limpiar <mensajes> {usuario}`
 
 ![clear Command](img/clearCommand.png)
