@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-# Send suggestion
+# Enviar sugerencia
 
-This command allows users to send a suggestion to the channel specified in the suggest settup sucommand, if that setup is not present or was deleted, this command will fail and display a error.
+Este comando permite a los usuarios enviar una sugerencia al canal especificado en la configuración de el sistema de sugerencias, si dicho sistema no se encuenta configurado o fue eliminado, este comando fallará.
 
-## Usage
+## Uso
 
-`/suggest <content>`
+`/sugerir <contenido>`
 
 ![suggest setup Command](img/suggestCommand.png)

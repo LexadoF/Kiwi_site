@@ -2,19 +2,18 @@
 sidebar_position: 1
 ---
 
-# Delete suggestion system
+# Eliminar sistema de sugerencias
 
-This subcommand will delete the suggestion system, removing the `/suggest` command uses in the server, to reverse it, create the suggestion system again.
+Este subcomando te permitirá eliminar el sistema de sugerencias, removiendo así el uso del comando `/sugerir` de los usuarios, para revertirlo, crea el sistema de sugerencias nuevamente.
 
 :::note
 
-Suggestions will remain in the channel even if the system is deleted, you'll have to remove each one manually or execute the `/nuke` command.
+Las sugerencias permanecerán en el canal aún si el sistema es eliminado, deberás removerlas manualmente o ejecutar el comando `/nuke` si deseas eliminarlas.
 
 :::
 
+## Uso
 
-## Usage
-
-`/suggest-setup delete`
+`/configurar-sugerencias eliminar`
 
 ![suggest setup Command](img/suggestSetupDelete.png)

@@ -2,12 +2,12 @@
 sidebar_position: 0
 ---
 
-# Configure suggestion system
+# Configurar sistema de sugerencias
 
-This subcommand will allow you to configure the suggestions system for your server, this will enable users to execute the `/suggest` command sending a suggestion to the specified channel set in this command. Channels are limited to text only.
+Este subcomando te permitirá configurar el sistema de sugerencias para tu servidor, esto habilitará a los usuarios ejecutar el comando `/sugerir` para enviar una sugerencia al canal que has especificado. Limitado a canales de texto.
 
-## Usage
+## Uso
 
-`/suggest-setup create <channel>`
+`/configurar-sugerencias crea <canal>`
 
 ![suggest setup Command](img/suggestSetupCreate.png)
