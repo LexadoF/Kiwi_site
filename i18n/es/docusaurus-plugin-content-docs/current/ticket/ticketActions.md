@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-# Ticket actions
+# Acciones
 
-These are actions with the purpose of adding or removing a user to a specific ticket, adding a user gives it permission to send messages and read messages, removing it remove the permissions mentioned before.
+Este comando incluye acciones con el propósito de añadir o remover un usuario de un ticket específico, añadir un usuario da a el mismo permiso para enviar mensajes y leer mensajes, removerlo remueve los permisos.
 
-## Usage
+## Uso
 
-`/ticket-actions <action> <member>`
+`/acciones-ticket <acción> <miembro>`
 
 ![ticket actions Command](img/ticketActions.png)

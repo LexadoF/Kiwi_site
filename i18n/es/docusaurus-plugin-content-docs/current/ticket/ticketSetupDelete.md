@@ -2,12 +2,12 @@
 sidebar_position: 1
 ---
 
-# Delete ticket system
+# Eliminar sistema de tickets
 
-This subcommand will remove the ticket system, tickets that are open when the system is deleted will have the interactions broken (close, lock, and unlock buttons will not work) however, restoring the system will enable those options again. The transcription channel will not be deleted.
+Este subcomando te permitirá remover el sistema de tickets, los tickers abiertos en el momento de el borrado de este sistema, tendrán sus interacciones rotas (cerrar, bloquear y desbloquear dejarán de funcionar), sin embargo, restaurar este sistema habilitará estas opciones denuevo. El canal de transcripciones no será eliminado.
 
-## Usage
+## Uso
 
-`/ticket-setup delete`
+`/configurar-tickets eliminar`
 
 ![ticket setup Command](img/ticketSetupCommandDelete.png)
