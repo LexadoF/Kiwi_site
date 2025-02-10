@@ -2,8 +2,8 @@
 sidebar_position: 0
 ---
 
-# Reactions
+# Reacciones
 
-This is the reactions folder, for the sake of simplicty, only this file of explanation is provided, due to all reactions being executed in the same way `/[reaction]` with reaction being the name of the specific reaction, this can be checked with the `/help` command or with the list below.
+Esta es la carpeta de reacciones. Por simplicidad, solo se proporciona este archivo de explicación, ya que todas las reacciones se ejecutan de la misma manera: /[reacción], donde "reacción" es el nombre de la reacción específica. Esto se puede verificar con el comando /help o con la lista a continuación.
 
 ![reaction Command](img/reactionListCommand.png)
