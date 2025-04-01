@@ -8,6 +8,6 @@ Mediante este comando podrás desbanear un usuario, para ello necesitas su id, q
 
 ## Uso
 
-`/desbanear <idUsuario>`
+`/desbanear <id_usuario>`
 
 ![unban Command](img/unbanCommand.png)
