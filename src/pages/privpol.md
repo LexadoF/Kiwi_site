@@ -4,8 +4,8 @@
 ## 1. Information We Collect
 When you use Kiwibot, we may collect the following types of information:
 - **Discord User Data:** Your Discord username, user ID, and the content of your interactions with the bot.
-- **Server Information:** Information about the server where the bot is added (server ID, server name).
-- **Logs:** We may store logs of commands used, errors encountered, or interactions with the bot.
+- **Server Information:** Information about the server where the bot is added (Server name).
+- **Logs:** We may store logs of errors encountered when executing certain commands.
 
 ## 2. How We Use Your Information
 The information we collect is used solely for the functionality of the bot. This includes:
