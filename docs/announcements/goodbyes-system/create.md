@@ -33,5 +33,5 @@ This subcommand has 3 required parameters and 1 optional parameter
 * url: This parameter determines the url to the image that will be sent if the type parameter is set to `image` or `image/text`, otherwise it can be omitted, for `text` type goodbyes, it will not do anything.
 
 :::note
-Due to the potential errors being too similar to the [`welcome system create subcommand`](/docs/announcements/welcomes-system/create) that section will not included here, potential errors for `message` and for `url` are covered there
+Due to the potential errors being too similar to the welcome system create subcommand that section will not included here, potential errors for `message` and for `url` are covered there.
 :::

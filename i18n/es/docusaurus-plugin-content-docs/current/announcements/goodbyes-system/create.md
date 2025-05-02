@@ -33,5 +33,5 @@ Este subcomando recibe 3 parámetros obligatorios y 1 opcional.
 * url: Este parámetro determina la imagen a utilizar, esta debe ser enviada en una url pública para evitar errores, solo será enviada si el tipo es `imagen` `imagen/texto`, en caso que sea `texto`, ninguna imagen será enviada.
 
 :::note
-Debido a que los errores potenciales son los mismos que en el [`subcomando crear`](/es/docs/announcements/welcomes-system/create) del sistema de bienvenidas esa sección no será descrita aquí.
+Debido a que los errores potenciales son los mismos que en el subcomando crear del sistema de bienvenidas esa sección no será descrita aquí.
 :::
