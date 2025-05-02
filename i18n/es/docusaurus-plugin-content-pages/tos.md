@@ -2,7 +2,7 @@
 # Terms of Service
 
 ## 1. Introduction
-Welcome to Kiwibot! By using this bot, you agree to the following terms of service. These terms apply to all users who interact with the bot. Please read them carefully before using the bot.
+Welcome to Kiwi! By using this bot, you agree to the following terms of service. These terms apply to all users who interact with the bot. Please read them carefully before using the bot.
 
 ## 2. Eligibility
 You must be at least 13 years old to use this bot, as per Discord’s own terms of service. If you are under 13, please discontinue using the bot immediately.
@@ -19,7 +19,7 @@ Users are prohibited from:
 - Attempting to reverse-engineer or exploit vulnerabilities in the bot.
 
 ## 5. Limitation of Liability
-Under no circumstances shall Kiwibot or its creators be liable for any direct or indirect damages resulting from the use or inability to use the bot.
+Under no circumstances shall Kiwi or its creators be liable for any direct or indirect damages resulting from the use or inability to use the bot.
 
 ## 6. Changes to the Terms of Service
 We reserve the right to update these terms at any time. Your continued use of the bot after changes have been made constitutes acceptance of the new terms.

@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Documentación kiwi bot
 
-Esta documentación te ayudará a entender y utilizar los comandos de kiwiBot.
+Esta documentación te ayudará a entender y utilizar los comandos de Kiwi.
 
 :::note
 

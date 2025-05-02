@@ -37,7 +37,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} Docs`}
-      description="Documentation for kiwibot">
+      description="Documentation for Kiwi">
       <HomepageHeader />
       <div style={{ position: 'relative', zIndex: -1 }}>
         <BackgroundParticles />

@@ -2,7 +2,7 @@
 # Privacy Policy
 
 ## 1. Information We Collect
-When you use Kiwibot, we may collect the following types of information:
+When you use Kiwi, we may collect the following types of information:
 - **Discord User Data:** Your Discord username, user ID, and the content of your interactions with the bot.
 - **Server Information:** Information about the server where the bot is added (Server name).
 - **Logs:** We may store logs of errors encountered when executing certain commands.
