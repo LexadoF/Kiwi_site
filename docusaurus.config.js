@@ -21,8 +21,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Kiwi', // Usually your GitHub org/user name.
-  projectName: 'Kiwi Docs', // Usually your repo name.
+  organizationName: 'LexadoF', // Usually your GitHub org/user name.
+  projectName: 'Kiwi_site', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
